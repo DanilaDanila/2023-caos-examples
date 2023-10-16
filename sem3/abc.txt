@@ -1,0 +1,8 @@
+
+
+hello, I am string from abc.txt
+asd;ajflsf
+
+sadlkjfldsaf
+
+
